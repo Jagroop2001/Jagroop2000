@@ -1,4 +1,4 @@
-
+![Don't write better error messages, write code that doesn't need them](https://user-images.githubusercontent.com/99062463/161793593-9e15f0a4-d535-42c2-9a1c-bd9065d9a7f1.png)
 # :wave: Hi there, I’m Jagroop
 - :orange_book: I like to explore new technologies and develop software solutions and quick hacks.
 - 👀 I’m interested in to contribute to Open-Source
