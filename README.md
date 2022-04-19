@@ -39,4 +39,4 @@
 
 	
 
-[![Jagroop's github stats](https://github-readme-stats.vercel.app/api?username=Jagroop2000)](https://github.com/Jagroop2000/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jagroop2000&theme=default)](https://git.io/streak-stats)
+[![Jagroop's github stats](https://github-readme-stats.vercel.app/api?username=Jagroop2000)](https://github.com/Jagroop2000/github-readme-stats) 
