@@ -38,3 +38,6 @@
 	
 
 [![Jagroop's github stats](https://github-readme-stats.vercel.app/api?username=Jagroop2000)](https://github.com/Jagroop2000/github-readme-stats) 
+
+
+[![@jagroop2000's Holopin board](https://holopin.me/jagroop2000)](https://holopin.io/@jagroop2000)
